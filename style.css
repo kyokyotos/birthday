@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ink Free", sans-serif;
 }
 body {
   background-color: pink;
@@ -170,10 +170,12 @@ body {
 
 .inside p {
   font-size: 15px;
+  font-family: "Bradley Hand ITC";
 }
 
 .front p {
   font-size: 15px;
+  font-family: "Bradley Hand ITC";
 }
 
 
